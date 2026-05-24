@@ -117,8 +117,7 @@ Explores relationship between economic background and salary expectations.
 
 ## Main Dashboard
 
-![Dashboard Preview](images/Dashboard Preview.png)
-
+![Dashboard Preview](images/dashboardPreview.png)
 ---
 
 # 🔍 Key Insights
